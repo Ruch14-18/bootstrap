@@ -53,10 +53,10 @@ https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js
 https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css
 
 --> Mobile View
-![Mobile View](mobileview.png)
+![Mobile View](mobile.png)
 
 -->Tablet View
-![Tablet View](Tabletview.png)
+![Tablet View](Tablet.png)
 
 --> Desktop View
 ![Desktop View](desktopview.png)
