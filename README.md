@@ -53,13 +53,13 @@ https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js
 https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css
 
 --> Mobile View
-![Mobile View](mobile view.png)
+![Mobile View](mobileview.png)
 
 -->Tablet View
-![Tablet View](Tablet view.png)
+![Tablet View](Tabletview.png)
 
 --> Desktop View
-![Desktop View](desktop view.png)
+![Desktop View](desktopview.png)
 
 --> Learning Outcome
 * Understanding Bootstrap grid system
