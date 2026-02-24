@@ -56,7 +56,7 @@ https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css
 ![Mobile View](mobile.png)
 
 -->Tablet View
-![Tablet View](Tablet.png)
+![Tablet View](tablet.png)
 
 --> Desktop View
 ![Desktop View](desktopview.png)
